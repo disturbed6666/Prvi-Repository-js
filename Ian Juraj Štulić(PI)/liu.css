@@ -1,0 +1,21 @@
+a:link {
+background-color: hotpink;
+}
+
+a:visited {
+background-color: blue;
+text-decoration: line-through;
+}
+
+a:hover {
+background-color: red;
+text-decoration: none;
+font-size: 20px; 
+}
+
+a:active {
+background-color: yellow;
+color: purple;
+}
+
+//ne koristiti font-size-ove za linkove//

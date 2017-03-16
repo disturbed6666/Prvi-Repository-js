@@ -1,0 +1,6 @@
+div > p {
+	background-color: yellow;
+}
+p:nth-of-type(6){
+	color:red;
+}

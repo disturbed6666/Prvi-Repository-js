@@ -1,0 +1,35 @@
+h1 {
+font-size: 12px;
+}
+
+p {
+font-family: Comic Sans, Impact, sans-serif, sans;
+}
+
+p:nth-child(2) {
+font-style: italic;
+font-size: 3em;
+}
+
+p:nth-child(3) {
+font-size: 15px;
+font-weight: bold;
+}
+
+a:link {
+color: neon green;
+}
+
+a:visited {
+color: black;
+text-decoration: underline-an;
+}
+
+a:hover {
+color: white;
+background-color: black;
+}
+
+a:active {
+color: blue;
+}

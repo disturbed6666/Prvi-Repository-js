@@ -1,0 +1,32 @@
+div {
+	height: 200px;
+	width:200px;
+}
+#ido {
+	height:500px;
+	width:500px;
+}
+div:nth-of-type(1){
+	position: absolute;
+	left: 0px;
+	top:0px;
+}
+
+div:nth-of-type(2){
+	position: absolute;
+	right:0px;
+	top: 0px;
+}
+
+div:nth-of-type(3){
+	position: absolute;
+	left: 0px;
+	bottom: 0px;
+}
+
+div:nth-of-type(4){
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+

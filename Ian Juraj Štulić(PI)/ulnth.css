@@ -1,0 +1,9 @@
+p:nth-of-type(odd){
+	background-color: red;
+}
+
+p:nth-of-type(even) {
+	color: red;
+}
+
+/* ili p:nth-child("neki broj") */

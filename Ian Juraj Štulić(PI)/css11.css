@@ -1,0 +1,15 @@
+p {
+outline-color: red;
+outline-style: double;
+}
+div {
+	width: 200px;
+	height: 200px;
+}
+.pero{
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	position: relative;
+	left: 200px;
+}

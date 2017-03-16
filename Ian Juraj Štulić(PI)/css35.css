@@ -1,0 +1,8 @@
+tr:nth-of-type(even) {
+	background-color:#808080;
+}
+
+tr:hover {
+	background-color:#C0C0C0;
+	color:#808080;
+}

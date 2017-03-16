@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<form>
+<p>Ime:<br><input type = "text" name = "Ime" placeholder = " "></p>
+<p>Prezime:<br><input type = "text" name = "Prezime" placeholder = " "></p>
+</form>
+</body>
+</html>
